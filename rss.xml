@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transformador.xsl"?>
+<rss version="2.0">
+  <channel>
+    <title>Musica clàssica</title>
+    <link>rss.xml</link>
+    <description>Cançons de música clàssica famoses</description>
+    <language>ca</language>
+    <lasBuildDate>Sun, 07 May 2023 22:15:01 GMT</lasBuildDate>
+    <image>
+      <url>img/wpmusic.jpg</url>
+      <title>Musica clàssica</title>
+      <link>img/wpmusic.jpg</link>
+    </image>
+    <category>Musica clàssica</category>
+    <pubDate>Sun, 07 May 2023 22:15:00 GMT</pubDate>
+    <item>
+      <title>"La petita serenata nocturna" de Wolfgang Amadeus Mozart</title>
+      <link>https://www.youtube.com/watch?v=YofUPSyCrwo</link>
+      <description>"La petita serenata nocturna" és una obra de música clàssica escrita per Wolfgang Amadeus Mozart el 1787. És una serenata per a orquestra de corda que consta de quatre moviments: allegro, romanze, menuet i rondo. Aquesta obra és una de les més famoses i populars de Mozart, i és reconeguda per la seva bellesa i elegància. El primer moviment, allegro, és una peça vivace i rítmica amb un tema principal contagios que s'intercala amb seccions més lentes. El segon moviment, romanze, és una peça melòdica i dolça que destaca per la seva bellesa i delicadesa. El tercer moviment, menuet, és una dansa clàssica que manté un ritme moderat i que destaca per la seva elegància i equilibri. Finalment, el quart moviment, rondo, és una peça vibrant i animada que recupera el tema principal del primer moviment i l'intercala amb altres temes.</description>
+      <category>Musica clàssica</category>
+      <category>Wolfgang Amadeus Mozart</category>
+      <enclosure url="https://www.youtube.com/watch?v=YofUPSyCrwo" type="audio/mpeg"/>
+      <pubDate>Sun, 07 May 2023 21:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>"Aquarium" de Camille Saint-Saëns</title>
+      <link>https://www.youtube.com/watch?v=YVpl-RNzdE4</link>
+      <description>"Aquarium" és una peça de música clàssica composta per Camille Saint-Saëns, que forma part de la seva obra "El carnaval dels animals". Aquesta peça representa un aquari i utilitza instruments com el xilòfon i el piano per recrear el so de l'aigua i dels peixos. És una peça molt calmada i evocadora, que transmet la sensació de pau i tranquil·litat. "Aquarium" és una de les peces més populars de "El carnaval dels animals" i ha estat utilitzada en diverses pel·lícules i anuncis publicitaris.</description>
+      <category>Musica clàssica</category>
+      <category>Camille Saint-Saëns</category>
+      <enclosure url="https://www.youtube.com/watch?v=YVpl-RNzdE4" type="audio/mpeg"/>
+      <pubDate>Sun, 07 May 2023 21:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>"Dansa hongaresa núm. 5" de Johannes Brahms</title>
+      <link>https://www.youtube.com/watch?v=61Zm9vstbys</link>
+      <description>Dansa hongaresa núm. 5" és una peça de música clàssica escrita per Johannes Brahms el 1869. Aquesta peça és una de les més populars de les 21 danses hongareses que va compondre Brahms. La peça està escrita per a piano, però també ha estat adaptada per a orquestra. És una peça animada i rítmica que utilitza ritmes hongaresos per crear una melodia contagiosa. La dansa comença amb un ritme lent i misteriós que va augmentant progressivament la velocitat fins a arribar a un ritme més ràpid i alegre. La melodia està composta per notes agudes i contundents que donen la sensació d'estar ballant amb entusiasme.</description>
+      <category>Musica clàssica</category>
+      <category>Johannes Brahms</category>
+      <enclosure url="https://www.youtube.com/watch?v=61Zm9vstbys" type="audio/mpeg"/>
+      <pubDate>Sun, 07 May 2023 21:25:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>"El vuelo del moscardón" de Nikolai Rimsky-Korsakov</title>
+      <link>https://www.youtube.com/watch?v=Sciy6GZr8Po</link>
+      <description>El vuelo del moscardón" és una peça de música clàssica composta per Nikolai Rimsky-Korsakov el 1899. La peça és una obra orchestrale i és considerada una de les obres més populars i conegudes del compositor. La música representa el vol d'un mosquit i utilitza instruments com la trompeta, el violí i la flauta per recrear el so de l'insecte en moviment. La melodia de la peça és ràpida i alegre, amb un ritme constant que s'assembla al vol frenètic del mosquit.</description>
+      <category>Musica clàssica</category>
+      <category>Nikolai Rimsky-Korsakov</category>
+      <enclosure url="https://www.youtube.com/watch?v=Sciy6GZr8Po" type="audio/mpeg"/>
+      <pubDate>Sun, 07 May 2023 21:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>"La danza de las horas" de Amilcare Ponchielli</title>
+      <link>https://www.youtube.com/watch?v=_mgLpLmQTq8</link>
+      <description>"La danza de las horas" és una peça de música clàssica composta per Amilcare Ponchielli el 1876. La peça és una dansa còmica que representa les hores del dia, des de l'alba fins a la nit. La música és animada i alegre, amb una melodia que varia al llarg de la peça per reflectir els diferents moments del dia. Els instruments utilitzats en la peça inclouen el clarinet, la flauta, el violí i el piano, i cada instrument té la seva part destacada en diferents moments de la peça. La peça és famosa per la seva secció final, on tots els instruments toquen junts per crear una gran explosió de música i energia. </description>
+      <category>Musica clàssica</category>
+      <category>Amilcare Ponchielli</category>
+      <enclosure url="https://www.youtube.com/watch?v=_mgLpLmQTq8" type="audio/mpeg"/>
+      <pubDate>Sun, 07 May 2023 21:35:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
