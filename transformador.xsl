@@ -10,6 +10,7 @@
         <title>
           <xsl:value-of select="rss/channel/title"/>
         </title>
+        <link rel="stylesheet" type="text/css" href="{ link }styles.css">
       </head>
       <body>
         <div id="container">
